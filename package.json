@@ -1,0 +1,11 @@
+{
+  "name": "chroma",
+  "description": "Stylus' chroma plugin",
+  "version": "0.0.1",
+  "dependencies": {
+    "stylus": "~0.22.6",
+    "chroma-js": "~0.3.0"
+  },
+  "author": "Antoine BERNIER (abernier)",
+  "main": "index.js"
+}
